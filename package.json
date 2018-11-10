@@ -3,11 +3,13 @@
     "elm": "0.19.0-bugfix2"
   },
   "devDependencies": {
-    "elm-format": "0.8.1"
+    "elm-format": "0.8.1",
+    "elm-live": "3.2.3"
   },
   "private": true,
   "scripts": {
     "elm": "elm",
-    "elm-format": "elm-format"
+    "elm-format": "elm-format",
+    "elm-live": "elm-live"
   }
 }
