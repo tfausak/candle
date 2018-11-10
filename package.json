@@ -10,6 +10,8 @@
   "scripts": {
     "elm": "elm",
     "elm-format": "elm-format",
-    "elm-live": "elm-live"
+    "elm-live": "elm-live",
+    "format": "elm-format --yes src",
+    "live": "elm-live -- --debug src/Main.elm"
   }
 }
